@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  background-image: url('./assets/background.svg');
+  color: aliceblue;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  font-family: 'Poppins', sans-serif;
+}

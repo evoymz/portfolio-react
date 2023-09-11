@@ -1,0 +1,18 @@
+.presentation {
+    text-align: left;
+    margin-left: 15%;
+}
+.presentation h1 {
+    font-size: 45px;
+    margin-bottom: 2%;
+}
+
+.presentation h4 {
+    font-size: 20px;
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
+
+.presentation p {
+    margin-bottom: 2%;
+}

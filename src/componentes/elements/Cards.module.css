@@ -1,0 +1,35 @@
+.card {
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
+
+.card img {
+    width: 400px;
+    height: 240px;
+    border-radius: 20px;
+}
+
+.card img:hover {
+    transform: translateX(-10px);
+    cursor: pointer;
+    transition-duration: 0.3s;
+}
+
+.card section {
+    background: rgba(1, 9, 28, 0.75);
+    padding: 20px;
+    border-radius: 20px;
+    width: 500px;
+    filter: drop-shadow(0px 10px 10px rgba(0, 0, 0.25, 0.25));
+    margin-left: 10px;
+}
+
+.card h3 {
+    font-size: 25px;
+    margin-bottom: 7px;
+}
+
+.card p {
+    margin-bottom: 7px;
+}
